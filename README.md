@@ -1,8 +1,5 @@
-**
 
 ## HD Clip Craze
-
-**
 
 Welcome to HD Clip Craze, one-stop destination for the most high-quality movie short clips. Explore a world of cinematic brilliance as we bring you carefully curated snippets from your favorite films and trailers. 
 
@@ -13,4 +10,5 @@ Immerse yourself in the magic of the silver screen in stunning HD quality. Wheth
 
 
 
-## [HD Clip Craze](https://www.youtube.com/@HDClipCraze)
+### [HD Clip Craze YouTube Channel](https://www.youtube.com/@HDClipCraze)  
+### [INSTAGRAM](https://www.instagram.com/hdclipcraze/)
