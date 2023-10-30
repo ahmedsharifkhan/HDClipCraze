@@ -10,6 +10,19 @@ Immerse yourself in the magic of the silver screen in stunning HD quality. Wheth
 
 
 
-### <a href="https://www.youtube.com/@HDClipCraze" id="myLink">HD Clip Craze YouTube Channel</a>
-### <a href="https://www.instagram.com/hdclipcraze/" id="myLink">INSTAGRAM</a>
+
+### <a href="https://www.youtube.com/@HDClipCraze" id="youtubeLink">HD Clip Craze YouTube Channel</a>
+### <a href="https://www.instagram.com/hdclipcraze/" id="instagramLink">INSTAGRAM</a>
+<script>
+    window.onload = function() {
+        // Get the link elements by their IDs
+        var youtubeLink = document.getElementById("youtubeLink");
+        var instagramLink = document.getElementById("instagramLink");
+        
+        // Add the target="_blank" attribute to open links in a new tab
+        youtubeLink.setAttribute("target", "_blank");
+        instagramLink.setAttribute("target", "_blank");
+    }
+</script>
+
 
