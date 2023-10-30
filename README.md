@@ -12,9 +12,4 @@ Immerse yourself in the magic of the silver screen in stunning HD quality. Wheth
 
 ### <a href="https://www.youtube.com/@HDClipCraze" id="myLink">HD Clip Craze YouTube Channel</a>
 ### <a href="https://www.instagram.com/hdclipcraze/" id="myLink">INSTAGRAM</a>
-<script>
-    window.onload = function() {
-        var link = document.getElementById("myLink");
-        link.setAttribute("target", "_blank");
-    }
-</script>
+
